@@ -3,26 +3,29 @@
 ## Overview
 This project is a basic home page clone of Netflix.com, created as a part of my CSS and HTML learning journey. It serves as a demonstration of my understanding of front-end development using these technologies. Please note that this is a static demo page.
 
-## Project Structure
-
-- **index.html**: The main HTML file representing the home page.
-- **styles.css**: The CSS file containing the styles for the page.
-
-## Table of Contents
-
-- [Screenshots](#screenshots)
-- [Hosted Website link](#link)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-
 
 ## Screenshots
 
 ![Screenshot](./images/ss.jpg)
 
 here the website is hosted : https://clone-netflix008.netlify.app/
+
+
+
+
+## Table of Contents
+
+- [Structure](#project-structure)
+- [Hosted Website link](#link)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Usage](#setup-and-usage)
+- [Contributing](#contributing)
+
+## Project Structure
+
+- **index.html**: The main HTML file representing the home page.
+- **styles.css**: The CSS file containing the styles for the page.
 
 ## link
 - This project is hosted online You can visit this website clone 
