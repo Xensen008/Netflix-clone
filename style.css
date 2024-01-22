@@ -1,0 +1,170 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  /* font-family: "Roboto", sans-serif; */
+  background-color: black;
+  color: white;
+}
+.main {
+  background-image: url(images/Main\ backgroud.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: max(1000px, 100vw);
+  height: 100vh;
+  position: relative;
+}
+
+.main .box {
+  height: 100vh;
+  width: 100%;
+  opacity: 0.67;
+  position: absolute;
+  top: 0;
+  background-color: black;
+}
+
+nav {
+  max-width: 80vw;
+  justify-content: space-between;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 85px;
+}
+nav img {
+  color: red;
+  width: 160px;
+  position: relative;
+  padding-top: 15px;
+  z-index: 15;
+}
+
+nav button {
+  position: relative;
+  z-index: 10;
+}
+.hero {
+  height: calc(100% - 62px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  position: relative;
+  flex-direction: column;
+  gap: 25px;
+  padding: 0 30px;
+}
+
+.hero> :first-child {
+  font-family: "poppins";
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.hero> :nth-child(2) {
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+.hero> :nth-child(3) {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+.separation {
+  height: 7px;
+  background-color: rgb(45,44,44);
+}
+
+.btn{
+  padding: 3px 8px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.837);
+  background-color: rgba(232, 224, 224, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-red{
+  background-color: red;
+  color: white;
+  font-weight: 700; 
+  padding: 16px 24px;
+  font-size: 20px;
+  border-radius: 4px;
+}
+
+.hero-buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  
+
+}
+.main input{
+  padding: 18px 105px 18px 28px;
+  color: white;
+  font-size: 15px;
+  border-radius: 4px;
+  background-color: rgba(0,0,0,0.7);
+  border: 1px solid rgba(255,255,255,0.5);
+} 
+
+
+.btn-red-sm{
+  background-color: red;
+  
+}
+.first{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: white;
+  max-width: 70vw; 
+
+}
+
+.SecImg{
+  position: relative;
+}
+.SecImg img{
+  width: 40vw;
+  border-radius: 4px;
+  position: relative;
+  z-index: 10;
+}
+
+.SecImg video{
+  width: 34.7vw;
+  position: absolute;
+  top: 51px;
+  right:0;
+}
+
+section.first > div{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+ 
+}
+section.first > div :first-child{
+  font-size: 48px;
+  font-weight: 800;
+  font-family: "poppins";
+  text-align: center;
+  margin-bottom: 10px;
+}
+section.first > div :nth-child(2){
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin-bottom: 10px;
+}
