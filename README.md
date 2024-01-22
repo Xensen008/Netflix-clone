@@ -37,7 +37,7 @@ here is the link 👇
 
 - **Static Page:** This project is a static demonstration of a Netflix home page clone.
 - **HTML/CSS:** The project is built using HTML for structure and CSS for styling.
-- **Responsive Design:** The page is designed to be responsive, adapting to various screen sizes.
+- **Responsive Design:** The page is designed to be responsive in big screen or desktop screen not for phones 
 
 ## Technologies Used
 
