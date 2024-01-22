@@ -20,9 +20,9 @@ This project is a basic home page clone of Netflix.com, created as a part of my 
 
 ## Screenshots
 
-![Screenshot](/images/ss.jpg)
+![Screenshot](./images/ss.jpg)
 
-
+here the website is hosted : https://clone-netflix008.netlify.app/
 
 ## link
 - This project is hosted online You can visit this website clone 
