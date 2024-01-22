@@ -61,4 +61,13 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
 
+## Authors
+
+- [@Arnabjk008](https://www.github.com/xensen008)
+- [bio links](https://xensen008.bio.link)
+
+
+## Acknowledgements
+
+A massive shoutout and heartfelt thanks to @CodewithHarry  for his incredible teachings on this web dev course! 🙌💻 his guidance has been instrumental in reaching this milestone.
 
